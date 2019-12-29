@@ -3,7 +3,6 @@ title: "The Best Resources on Habit Formation"
 date: 2019-12-29T13:54:38+13:00
 authors: ["Angela Hollings"]
 draft: false
-Tags: Productivity, self-improvement
 ---
 
 # The Best Resources on Habit Formation
