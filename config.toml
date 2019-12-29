@@ -1,0 +1,48 @@
+baseURL = "angelahollings.com"
+title = "Angela Hollings"
+theme = "chunky-poster"
+copyright = "Copyright © 2019 Angela Hollings"
+paginate = 2
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+author = "authors"
+
+[params]
+  author = "Angela Hollings"
+  description = "Finding evidence based and actionable resources on the internet to promote learning and growth"
+  homepageImage = "/images/homepage-image.jpg"
+  share = true
+
+  [params.social]
+    rss = true
+    email = "ange.hollings@gmail.com"
+    twitter = "https://twitter.com/AngelaLHollings"
+    linkedin = "https://www.linkedin.com/in/angela-hollings/"
+    github = "https://github.com/AngelaLH"
+
+  [params.prismJS]
+    enable = true
+    theme = ""
+
+[markup]
+  [markup.highlight]
+    codeFences = false
+
+[services]
+
+  [services.twitter]
+    disableInlineCSS = true
