@@ -23,7 +23,7 @@ author = "authors"
 
 [params]
   author = "Angela Hollings"
-  description = "Finding evidence based and actionable resources on the internet to promote learning and growth"
+  description = "Finding *evidence based* and *actionable* resources to promote learning and growth"
   homepageImage = "/images/homepage.png"
   share = true
 
