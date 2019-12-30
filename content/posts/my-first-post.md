@@ -3,11 +3,16 @@ title: "The Best Resources on Habit Formation"
 date: 2019-12-29T13:54:38+13:00
 authors: ["Angela Hollings"]
 draft: false
+image: "/images/Habit-journal.jpg"
+thumbnail: "/images/Habit-journal.jpg"
 ---
 
-#Summary: 
-James Clear, Author of Atomic Habits, has everything you need to know about habits. Included below are videos, podcasts, actionable summaries and more. 
+Everything you need to know about habits. Feauturing videos, podcasts, actionable summaries from James Clear's Atomic Habits and more. 
 <!--more--> 
+
+
+![Habit Journal](/images/Habit-journal.jpg "Habit Journal")
+Credit: [The Habit Tracker: What It Is and How It Works](https://jamesclear.com/habit-tracker)
 
 ## Atomic Habits
 

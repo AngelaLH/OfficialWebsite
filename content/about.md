@@ -1,28 +1,28 @@
 +++
 title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
+description = "Who I am and Why I Created this Blog"
 date = "2019-02-28"
-aliases = ["about-us","about-hugo","contact"]
-author = "Hugo Authors"
+aliases = ["about-us,contact"]
+author = "Angela Hollings"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
-Hugo makes use of a variety of open source projects including:
+I am a Computer Engineering student based in Auckland who loves reading on [Productivity](https://www.notion.so/Productivity-93087a64d2f9437290c36a6d4b9f8836), psychology, and learning. 
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+You can read more about my [Interests](https://www.notion.so/5dddada17d39415ea99d6f4fddd04035) and I have [Lists](https://www.notion.so/392d0a9edbb646aca3518965b9b9e016) of the resources that have influenced me the most.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+My self-improvement journey supports my leadership in [Biztalk Toastmasters](https://www.notion.so/Biztalk-Toastmasters-336ca103de584057a464b8e88ed90e63) (a Public speaking group), my critical thinking club [Life Beyond Lectures](https://www.notion.so/Life-Beyond-Lectures-5424ecd05f204a25b2e29c5d48e97352) where we discuss topics featured here and more, my [Women in STEM Advocating](https://www.notion.so/Women-in-STEM-Advocating-61ad7c219d5d444ebb8d16191adecefe), and [Life Beyond School](https://www.notion.so/Life-Beyond-School-a8b8d493f99f442bb2ecfe37edb02b03) the mentoring Programme that catalyzed my desire to improve.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+My Personal Profile with more information is [here](https://www.notion.so/Angela-Hollings-130fcff2af0343ff8d9e21f282b41934)
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+### Why this blog?
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+---
 
+We are overloaded with information about every topic. How do we separate the evidence based experts from those relying on personal experience and anecdotes? In this blog, I will be collating the most reliable resources on self-improvement topics to save you from hours of searching. 
+
+As we all prefer various mediums, I include podcasts, videos, apps, workbooks, articles and books. 
+
+I enjoy collating resources for some reason, so I hope my joy can save you time.
 
 
