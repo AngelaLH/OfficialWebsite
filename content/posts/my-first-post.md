@@ -5,7 +5,9 @@ authors: ["Angela Hollings"]
 draft: false
 ---
 
-# The Best Resources on Habit Formation
+#Summary: 
+James Clear, Author of Atomic Habits, has everything you need to know about habits. Included below are videos, podcasts, actionable summaries and more. 
+<!--more--> 
 
 ## Atomic Habits
 
