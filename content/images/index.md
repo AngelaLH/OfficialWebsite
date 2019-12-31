@@ -1,3 +1,3 @@
 ---
-headless: true
+images: ["/images/Habit-Journal.jpg"]
 ---
