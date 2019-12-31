@@ -1,0 +1,7 @@
+[[redirects]]
+  from = "/resume"
+  to = "https://www.notion.so/angelas/Angela-Hollings-130fcff2af0343ff8d9e21f282b41934"
+  status = 301
+  force = true
+  query = {path = ":path"}
+  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
